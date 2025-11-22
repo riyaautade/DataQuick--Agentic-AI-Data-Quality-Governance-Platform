@@ -8,6 +8,8 @@
 
 ---
 
+## DEMO VIDEO: https://www.loom.com/share/e0b03ed627144195ac824752d9cd640e 
+
 ## 🎯 Key Features
 
 ✅ **Data Profiling** - Automated statistical analysis of all columns  
